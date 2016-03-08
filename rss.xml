@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[oldcrown]]></title>
+        <description><![CDATA[oldcrown]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 17:04:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Old Crown on FaceBook]]></title>
+            <description><![CDATA[<article><h1>Security Check</h1></article>]]></description>
+            <link>https://m.facebook.com/oldcrown</link>
+            <guid isPermaLink="false">b11dfe5c-7fe3-4767-9a5e-95d170bb24f0</guid>
+            <pubDate>Tue, 08 Mar 2016 17:04:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
